@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhavesh Bansode
 =======================================================================================================================================
 
-Front End Developer and practising DSA
+Learning Data Analytics | Practising DSA | Building skills one project at a time.
 --------------------------------------
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [bhaveshshashikantbansode@gmail.com](mailto:bhaveshshashikantbansode@gmail.com)
-* 🧠  I'm learning Data Structures and Algorithms
+* 🧠  I'm learning Data Analytics
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills

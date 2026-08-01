@@ -1,34 +1,214 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhavesh Bansode
-=======================================================================================================================================
+<h1 align="center">Hi 👋, I'm Bhavesh Bansode</h1>
 
-Learning Data Analytics | Practising DSA | Building skills one project at a time.
---------------------------------------
+<h3 align="center">
+Data Analyst • Software Engineer • Python Developer
+</h3>
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [bhaveshshashikantbansode@gmail.com](mailto:bhaveshshashikantbansode@gmail.com)
-* 🧠  I'm learning Data Analytics
-* 🤝  I'm open to collaborating on Projects
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<p align="center">
+Building scalable data-driven applications using Python, SQL, FastAPI, Streamlit and Machine Learning.
 </p>
 
+---
 
-### Socials
+## 🚀 About Me
 
-<p align="left"> <a href="https://discord.com/users/bhavesh_23230" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Bhavesh-Bansode" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/_baburao__" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/bhavesh-shashikant-bansode" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+🎓 B.Tech in Chemical Engineering at **NIT Warangal**
 
-### Badges
+📊 Passionate about **Data Analytics, Data Engineering and Backend Development**
 
-<b>My GitHub Stats</b>
+💻 Experienced in building end-to-end analytics platforms involving ETL pipelines, REST APIs, interactive dashboards and machine learning.
 
-<a href="http://www.github.com/Bhavesh-Bansode"><img src="https://github-readme-stats.vercel.app/api?username=Bhavesh-Bansode&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Bhavesh-Bansode's GitHub stats" /></a>
+📈 Interested in Financial Analytics, Business Intelligence, Data Visualization and Scalable Software Systems.
 
-<a href="http://www.github.com/Bhavesh-Bansode"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavesh-Bansode&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+🌱 Currently improving my knowledge in
 
-<a href="http://www.github.com/Bhavesh-Bansode"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bhavesh-Bansode&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+- Advanced SQL
+- Data Engineering
+- Machine Learning
+- Backend Development
+- System Design
 
-<a href="https://github.com/Bhavesh-Bansode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh-Bansode&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+## 💼 What I Do
+
+✔ Build End-to-End Data Analytics Projects
+
+✔ Design ETL Pipelines
+
+✔ Develop REST APIs using FastAPI & Flask
+
+✔ Create Interactive Dashboards using Streamlit & Power BI
+
+✔ Perform Data Cleaning, EDA & Statistical Analysis
+
+✔ Build Machine Learning Models
+
+✔ Solve Data Structures & Algorithms Problems
+
+---
+
+## 🛠 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,sql" />
+</p>
+
+---
+
+### Data Analytics
+
+<p>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
+<img src="https://img.shields.io/badge/EDA-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ETL-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Statistics-orange?style=for-the-badge" />
+</p>
+
+---
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask" />
+</p>
+
+---
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+---
+
+### Data Visualization
+
+<p>
+<img src="https://skillicons.dev/icons?i=plotly" />
+<img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge" />
+</p>
+
+---
+
+### Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://img.shields.io/badge/Scikit--Learn-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/KMeans-blueviolet?style=for-the-badge" />
+</p>
+
+---
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+### 📈 N100 Financial Intelligence Platform
+
+- End-to-End Financial Analytics Platform
+- FastAPI Backend
+- Streamlit Dashboard
+- ETL Pipelines
+- Financial KPI Engine
+- KMeans Clustering
+- Portfolio Analytics
+- REST APIs
+
+---
+
+### 💹 Mutual Fund Analytics Platform
+
+- Portfolio Optimization
+- Monte Carlo Simulation
+- Markowitz Optimization
+- Power BI Dashboard
+- Streamlit Dashboard
+- SQL Analytics
+
+---
+
+### 🤖 VisionVerse AI
+
+- Image Caption Generator
+- Deep Learning
+- CNN + LSTM
+- TensorFlow
+- Computer Vision
+
+---
+
+### 🚗 Renault Vehicle Data Analysis
+
+- Web Scraping
+- BeautifulSoup
+- Requests
+- Data Cleaning
+- Pandas
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+bhaveshshashikantbansode@gmail.com
+
+🔗 **LinkedIn**
+
+https://www.linkedin.com/in/bhavesh-shashikant-bansode
+
+💻 **GitHub**
+
+https://github.com/Bhavesh-Bansode
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhavesh-Bansode&show_icons=true&theme=github_dark"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh-Bansode&layout=compact&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavesh-Bansode&theme=github-dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavesh-Bansode&theme=github-dark"/>
+
+</p>
+
+---
+
+# 📈 Current Focus
+
+- 📊 Advanced Data Analytics
+- 🗄 SQL Optimization
+- ⚡ FastAPI Backend Development
+- 📈 Financial Data Analytics
+- 🤖 Machine Learning
+- 💻 Software Engineering
+- 🚀 Building Production-Ready Data Applications
+
+---
+
+⭐ *"Turning raw data into actionable insights through scalable analytics and software solutions."*
